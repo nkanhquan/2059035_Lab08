@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<QuesAndAns>
+    <Question>
+        <Content>1+1 = ?</Content>
+        <Answer>5</Answer>
+        <Answer>3</Answer>
+        <Answer>2</Answer>
+        <Answer>1</Answer>
+	<Correct>2</Correct>
+    </Question>
+    <Question>
+        <Content>15+7 = ?</Content>
+        <Answer>25</Answer>
+        <Answer>22</Answer>
+        <Answer>23</Answer>
+        <Answer>20</Answer>
+	<Correct>22</Correct>
+    </Question>
+    <Question>
+        <Content>30+11 = ?</Content>
+        <Answer>41</Answer>
+        <Answer>40</Answer>
+        <Answer>45</Answer>
+        <Answer>42</Answer>
+	<Correct>41</Correct>
+    </Question>
+    <Question>
+        <Content>22+20 = ?</Content>
+        <Answer>40</Answer>
+        <Answer>43</Answer>
+        <Answer>45</Answer>
+        <Answer>42</Answer>
+	<Correct>42</Correct>
+    </Question>
+</QuesAndAns>
